@@ -1,0 +1,7 @@
+name: scipy-binder-test
+channels:
+  - conda-forge
+dependencies:
+  - python =3
+  - numpy >=1.18.1
+  - matplotlib >=3.1.3
